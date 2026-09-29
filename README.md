@@ -1,4 +1,4 @@
-# 👨‍💻 Madei Pavan Kumar Presents  
+# 👨‍💻 K JOHN ZECHARIAH Presents  
 ## 🛣️ Smart Tollgate System 🚀  
 *Built at GMRIT, Rajam 🎓*
 
@@ -126,7 +126,7 @@ It’s a **mini smart-city system** 🔥
 
 # 👨‍💻 Creator
 
-**Pavan Kumar** 🚀  
+**John Zechariah** 🚀  
 🎓 GMR Institute of Technology (GMRIT), Rajam  
 
 💡 Passionate about:
